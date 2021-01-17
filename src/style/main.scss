@@ -1,9 +1,7 @@
 @import "./normalize.scss";
 @import "/node_modules/ant-design-vue/dist/antd.css";
+@import "./transition.scss";
 
-body {
-  background-color: aqua;
-}
 
 /*滚动条滑块*/
 ::-webkit-scrollbar-thumb {
